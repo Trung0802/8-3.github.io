@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.input{
+    margin-top: 0px;
+}
+
+#P1{
+    margin-top: 30px;
+}
+
+#ID{
+    margin-top: 30px;
+}
+
+#Dieukhoan{
+    margin-top: 20px;
+}
+
+#Text{
+    margin-top: 20px;
+}
+
+#Checkbox{
+    margin-top: 30px;
+}
+
+#Button{
+    margin-top: 20px;
+}
